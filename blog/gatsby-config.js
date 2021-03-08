@@ -4,7 +4,7 @@ require('dotenv').config({
 module.exports = {
 
   siteMetadata: {
-    title: `MATC Student Food Blog`,
+    title: `MATC Student Food Blogzgit`,
     description: `This is my MATC Student Food Blog, where I show off my favorite foods and how to cook them!!  .`,
     author: `Ejaz Khan`,
     contact: {
